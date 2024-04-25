@@ -1,4 +1,4 @@
-# Wi-Fi Network Extractor and Emailer
+# Wi-Fi Network Extractor
 
 This project provides a script that extracts Wi-Fi network profiles and corresponding passwords from a Windows system and sends this information via email. It utilizes the `subprocess` module to execute system commands, `re` for regular expression processing, and `smtplib` to send emails.
 
